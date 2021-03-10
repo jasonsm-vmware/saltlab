@@ -1,3 +1,4 @@
+# Creates a new directory
 create my_new_directory:
   file.directory:
     - name: /opt/my_new_directory
