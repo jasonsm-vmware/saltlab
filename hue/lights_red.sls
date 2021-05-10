@@ -1,6 +1,6 @@
 # Changes color of office lights to red
-color.hue:
+office_lights_red:
   module.run:
-    - name: color.hue
+    - name: hue.color
     - id: 1,2
     - color: red
